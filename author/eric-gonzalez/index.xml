@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Gonzalez</title>
+    <link>/author/eric-gonzalez/</link>
+      <atom:link href="/author/eric-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Gonzalez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Eric Gonzalez © 202X</copyright>
+    <image>
+      <url>/images/icon_hu2b36c1cbe92f15567d0ef86a9dcda649_3076_512x512_fill_lanczos_center_2.png</url>
+      <title>Eric Gonzalez</title>
+      <link>/author/eric-gonzalez/</link>
+    </image>
+    
+  </channel>
+</rss>
